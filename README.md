@@ -40,5 +40,3 @@ A implementação desta solução fornece à ClickBus as ferramentas para:
 * 📈 **Aumentar a Receita:** Focando ações de marketing em clientes VIPs e recuperando clientes "Em Risco" (Meta: +15% na taxa de recompra).
 * 💰 **Reduzir Custos:** Diminuindo o desperdício com campanhas genéricas e focando em públicos com maior potencial de conversão.
 * 👥 **Aumentar a Satisfação do Cliente:** Enviando ofertas relevantes e personalizadas no *timing* correto (Meta: +20 pontos no NPS).
-
-  [grafana 1](grafana 1.png)
