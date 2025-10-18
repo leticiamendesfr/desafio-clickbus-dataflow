@@ -24,6 +24,9 @@ Desenvolvemos um pipeline de dados ponta-a-ponta que não apenas resolve os desa
 * **Visualização Estratégica:** Consolidamos todos os KPIs, segmentos e previsões em um **Dashboard no Grafana**, permitindo o monitoramento em tempo real.
 * **Inovação (Extra):** Desenvolvemos um **Chatbot com IA** que consome os dados de predição (vetorizados com `pgvector`) para apoiar a tomada de decisão da equipe de marketing de forma interativa.
 
+<img width="1887" height="728" alt="Image" src="https://github.com/user-attachments/assets/3b7adc02-ff6d-4083-89b2-51b4f72db783" />
+<img width="1896" height="654" alt="Image" src="https://github.com/user-attachments/assets/5b6dd860-e095-4922-ba14-bcaa0daabdc8" />
+
 ### 3. Stack de Tecnologias
 
 | Área | Tecnologias Utilizadas |
@@ -40,3 +43,5 @@ A implementação desta solução fornece à ClickBus as ferramentas para:
 * 📈 **Aumentar a Receita:** Focando ações de marketing em clientes VIPs e recuperando clientes "Em Risco" (Meta: +15% na taxa de recompra).
 * 💰 **Reduzir Custos:** Diminuindo o desperdício com campanhas genéricas e focando em públicos com maior potencial de conversão.
 * 👥 **Aumentar a Satisfação do Cliente:** Enviando ofertas relevantes e personalizadas no *timing* correto (Meta: +20 pontos no NPS).
+
+  
